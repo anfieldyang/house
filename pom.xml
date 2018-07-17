@@ -30,7 +30,6 @@
 
     <modules>
         <module>house-web</module>
-        <module>house-common</module>
         <module>house-biz</module>
     </modules>
 
